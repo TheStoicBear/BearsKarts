@@ -1,4 +1,4 @@
-# BearsKarts
+# Bears Karting
 
 ![Bears Karting](https://user-images.githubusercontent.com/112611821/230702619-f02ee8a1-3fe1-4a9a-b6f6-0a0456d81a08.png)
 
